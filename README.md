@@ -1,4 +1,4 @@
-<![CDATA[# 🚀 Auto Performance Profiler Pro
+# 🚀 Auto Performance Profiler Pro
 
 **The Ultimate Automated Technical Director for Unity**
 
@@ -575,4 +575,4 @@ For bug reports, feature requests, or integration support:
 ---
 
 **Made for the Unity Asset Store** — Code architecture strictly adheres to standard C# naming conventions, uses precompiled Assembly Definitions for fast compile times, and introduces zero third-party dependencies.
-]]>
+
