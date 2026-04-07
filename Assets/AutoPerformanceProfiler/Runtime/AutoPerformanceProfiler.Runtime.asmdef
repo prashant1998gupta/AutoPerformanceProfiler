@@ -1,0 +1,14 @@
+{
+    "name": "AutoPerformanceProfiler.Runtime",
+    "rootNamespace": "AutoPerformanceProfiler.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

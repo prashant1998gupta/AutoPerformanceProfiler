@@ -1,0 +1,21 @@
+{
+  "name": "com.yourstudio.autoperformanceprofiler",
+  "version": "1.0.0",
+  "displayName": "Auto Performance Profiler Pro",
+  "description": "An automated AI-driven Technical Director that tracks FPS drops, visualizes memory leaks, and provides instant one-click scene fixes.",
+  "unity": "2021.3",
+  "keywords": [
+    "profiler",
+    "performance",
+    "optimizer",
+    "optimization",
+    "fps",
+    "vram",
+    "tools"
+  ],
+  "author": {
+    "name": "Your Studio",
+    "email": "support@yourstudio.com",
+    "url": "https://yourstudio.com"
+  }
+}
